@@ -12,10 +12,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author Teja K
- */
-
 //@Slf4j
 @RestController
 @RequestMapping("/api/orders")
