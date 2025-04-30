@@ -11,9 +11,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.Collections;
 
-/**
- * @author Teja K
- */
+
 @Service
 public class UserService implements UserDetailsService {
 
