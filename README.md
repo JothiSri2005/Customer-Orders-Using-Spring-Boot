@@ -1,8 +1,4 @@
-The repository [Customer-Orders-Using-Spring-Boot](https://github.com/JothiSri2005/Customer-Orders-Using-Spring-Boot/tree/master) by JothiSri2005 currently lacks a README file.
 
-However, based on the repository's structure and contents, we can infer that it's a Spring Boot application designed to manage customer orders. Here's a basic README template you can use:
-
----
 
 # Customer Orders Using Spring Boot
 
