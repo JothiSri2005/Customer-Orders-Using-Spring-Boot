@@ -68,10 +68,4 @@ The application uses an SQLite database named `customer_orders.db` located in th
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to better fit the specific details and functionalities of your application. 
